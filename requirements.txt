@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib==1.5.0
+streamlit
+google-generativeai
+google-cloud-aiplatform
